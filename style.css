@@ -1,0 +1,12 @@
+body{
+    font-family: monospace;
+    background-color: black;
+    color: white;
+}
+.pitha{
+    width: 50%;
+    margin: 5px 25%;
+}
+button.pitha{
+    width: auto;
+}
